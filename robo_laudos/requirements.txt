@@ -1,0 +1,6 @@
+anthropic
+faster-whisper
+imageio-ffmpeg
+python-docx
+pypdf
+openpyxl
